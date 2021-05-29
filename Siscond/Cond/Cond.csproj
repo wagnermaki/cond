@@ -4,4 +4,12 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Data\" />
+    <Folder Include="scripts\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
