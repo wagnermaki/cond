@@ -6,8 +6,10 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Data\Charge\" />
+    <Folder Include="Data\Procedures\" />
+    <Folder Include="Data\Table\" />
     <Folder Include="Models\" />
-    <Folder Include="Data\" />
     <Folder Include="scripts\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>

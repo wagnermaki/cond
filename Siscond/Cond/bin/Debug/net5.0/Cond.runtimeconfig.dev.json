@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Emerson Maki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Emerson Maki\\.nuget\\packages"
+    ]
+  }
+}
